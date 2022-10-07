@@ -34,7 +34,9 @@ Click on this link and follow the guide below! https://www.jetbrains.com/pycharm
 ![image](https://user-images.githubusercontent.com/115165899/194598206-186917d2-d558-4c0b-a5c9-3a4bef7bbca7.png)
 Make sure you download the community version
 
+
 What is DevOps?
+
 ![image](https://user-images.githubusercontent.com/115165899/194603594-a52f8bc8-5050-4c21-96f6-a602ed256654.png)
 
 DevOps is all about the unification and automation of processes, and DevOps engineers are instrumental in combining code, application maintenance, and application management. All of these tasks rely on understanding not only development life cycles, but DevOps culture, and its philosophy, practices, and tools.
