@@ -8,7 +8,6 @@ What is an Elevator's Pitch?
 What is Agile?
 - Agile allows for customer feedback and a faster and more effecient process.
 - Agile was an idea for small software development teams to self-organize in such a way that they are more in touch with their customers, determine more accurately what   the customers need, and deliver it in small increments.
-- 
 
 What is Scrum?
 - Scrum is a lightweight framework that helps people, teams and organizations generate value through adaptive solutions for complex problems.
