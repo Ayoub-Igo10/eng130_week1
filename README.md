@@ -14,5 +14,6 @@ What is Scrum?
 - Scrum is a lightweight framework that helps people, teams and organizations generate value through adaptive solutions for complex problems.
 - Work is planned and executed in short cyclical time frames typically 1 to 4 weeks - Cycles.
 - Only one person decides the work priorities - not a committee or a group (Product Owner via Product Backlog).
+- 
 ![image](https://user-images.githubusercontent.com/115165899/194584576-f53b93f8-ed5d-4011-86fb-744b5a390acb.png)
 
