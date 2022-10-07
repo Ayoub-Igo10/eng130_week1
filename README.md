@@ -49,4 +49,4 @@ What is the role of a DevOps Engineer?
 
 How does it benefit the business?
 
--Benefits of DevOps can bring consistent improvements in maintaining software quality, scale and predictability, reduce the cost of designing, testing, writing and  deploying software, and satisfy customer requirements faster.
+- Benefits of DevOps can bring consistent improvements in maintaining software quality, scale and predictability, reduce the cost of designing, testing, writing and  deploying software, and satisfy customer requirements faster.
