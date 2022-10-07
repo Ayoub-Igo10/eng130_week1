@@ -9,6 +9,8 @@ What is Agile?
 - It simply means continuous incremental improvement through small and frequent releases
 - Agile allows for customer feedback and a faster and more effecient process.
 - Agile was an idea for small software development teams to self-organize in such a way that they are more in touch with their customers, determine more accurately what   the customers need, and deliver it in small increments.
+![image](https://user-images.githubusercontent.com/115165899/194588089-c52663c9-dadb-4348-be91-bfc19ec06392.png)
+
 
 What is Scrum?
 - Scrum is a lightweight framework that helps people, teams and organizations generate value through adaptive solutions for complex problems.
