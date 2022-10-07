@@ -55,3 +55,9 @@ How to add a variable path into you OS:
 
 ![image](https://user-images.githubusercontent.com/115165899/194612516-f0b2194c-ebe8-4312-9108-b4b36276561f.png)
 
+SDLC Lifecyle:
+
+![image](https://user-images.githubusercontent.com/115165899/194612766-9671f142-bad8-44bd-a26d-6afdd4b88cbc.png)
+
+
+
