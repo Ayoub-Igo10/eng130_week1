@@ -32,6 +32,8 @@ How to Install Pycharm:
 
 Click on this link and follow the guide below! https://www.jetbrains.com/pycharm/download/#section=windows
 ![image](https://user-images.githubusercontent.com/115165899/194598206-186917d2-d558-4c0b-a5c9-3a4bef7bbca7.png)
+
+
 Make sure you download the community version
 
 
