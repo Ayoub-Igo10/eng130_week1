@@ -6,6 +6,7 @@ What is an Elevator's Pitch?
 - States relevant qualifactions and any hobbies to keep the employer engaged.
 
 What is Agile?
+- It simply means continuous incremental improvement through small and frequent releases
 - Agile allows for customer feedback and a faster and more effecient process.
 - Agile was an idea for small software development teams to self-organize in such a way that they are more in touch with their customers, determine more accurately what   the customers need, and deliver it in small increments.
 
