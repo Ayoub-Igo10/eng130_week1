@@ -19,3 +19,12 @@ What is Scrum?
 
 ![image](https://user-images.githubusercontent.com/115165899/194584576-f53b93f8-ed5d-4011-86fb-744b5a390acb.png)
 
+How to Install Python and Pycharm:
+
+1) Click on this link and follow the guide below! https://www.python.org/downloads/
+2) ![image](https://user-images.githubusercontent.com/115165899/194593753-c69cfe14-1f47-4a0d-b3e1-550aefecbe0f.png)
+3) Download Python Executable Installer
+4) Run Executable Installer
+5) Verify Python Was Installed On Windows
+6) ![image](https://user-images.githubusercontent.com/115165899/194594397-22951ccc-65a0-4ffc-96d3-c89a348ff85d.png)
+
