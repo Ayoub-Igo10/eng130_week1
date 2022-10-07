@@ -28,3 +28,8 @@ How to Install Python and Pycharm:
 5) Verify Python Was Installed On Windows
 6) ![image](https://user-images.githubusercontent.com/115165899/194594397-22951ccc-65a0-4ffc-96d3-c89a348ff85d.png)
 
+How to Install Pycharm:
+
+Click on this link and follow the guide below! https://www.jetbrains.com/pycharm/download/#section=windows
+![image](https://user-images.githubusercontent.com/115165899/194598206-186917d2-d558-4c0b-a5c9-3a4bef7bbca7.png)
+Make sure you download the community version
