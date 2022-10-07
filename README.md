@@ -48,4 +48,5 @@ What is the role of a DevOps Engineer?
 - A DevOps Engineer works with developers and the IT staff to oversee the code releases, combining an understanding of both engineering and coding.
 
 How does it benefit the business?
+
 -Benefits of DevOps can bring consistent improvements in maintaining software quality, scale and predictability, reduce the cost of designing, testing, writing and  deploying software, and satisfy customer requirements faster.
