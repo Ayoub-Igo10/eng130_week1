@@ -53,6 +53,8 @@ How does it benefit the business?
 
 How to add a variable path into you OS:
 
+https://www.youtube.com/watch?v=gb9e3m98avk&ab_channel=TheCuriousCoder
+
 ![image](https://user-images.githubusercontent.com/115165899/194612516-f0b2194c-ebe8-4312-9108-b4b36276561f.png)
 
 SDLC Lifecyle:
