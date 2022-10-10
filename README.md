@@ -55,8 +55,6 @@ How does it benefit the business?
 - Benefits of DevOps can bring consistent improvements in maintaining software quality, scale and predictability, reduce the cost of designing, testing, writing and  deploying software, and satisfy customer requirements faster.
 
 
-![image](https://user-images.githubusercontent.com/115165899/194612516-f0b2194c-ebe8-4312-9108-b4b36276561f.png)
-
 SDLC Lifecyle:
 
 ![image](https://user-images.githubusercontent.com/115165899/194612766-9671f142-bad8-44bd-a26d-6afdd4b88cbc.png)
