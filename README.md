@@ -5,6 +5,9 @@ What is an Elevator's Pitch?
 - Your passions, Experience and Qualifcation.
 - States relevant qualifactions and any hobbies to keep the employer engaged.
 
+![image](https://user-images.githubusercontent.com/115165899/194832271-78f0eed8-cf77-4b4e-b246-ab20dc4514c6.png)
+
+
 What is Agile?
 - It simply means continuous incremental improvement through small and frequent releases
 - Agile allows for customer feedback and a faster and more effecient process.
